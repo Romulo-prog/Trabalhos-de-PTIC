@@ -1,7 +1,7 @@
 # Trabalhos-de-PTIC
 
 
-Essa é uma pesquisa na norma ABNT
+Esse arquivo é para mostrar meus trabalhos de PTIC
 
 
 
